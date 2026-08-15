@@ -1,5 +1,5 @@
 # 💰 Desafio - Processamento de Transações Bancárias
-
+[![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org/)
 ## 📖 Descrição
 
 Você foi contratado como desenvolvedor júnior para o **Banco Digital Futuro**, uma fintech inovadora que busca automatizar o processamento de operações financeiras básicas.
